@@ -1,0 +1,16 @@
+{
+  "name": "remy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "start": "yarn gulp & live-server build"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "breakpoint": "^0.1.6",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.1"
+  }
+}
